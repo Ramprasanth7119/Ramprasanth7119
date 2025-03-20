@@ -108,4 +108,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramprasanth7119&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+### 🐍 Contribution Graph
+![Snake Animation](https://raw.githubusercontent.com/Ramprasanth7119/java-dsa/output/snake.svg)
+
+
 ###
