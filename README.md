@@ -111,5 +111,9 @@
 ### 🐍 Contribution Graph
 ![Snake Animation](https://raw.githubusercontent.com/Ramprasanth7119/java-dsa/output/snake.svg)
 
+### 🕹️ Pac-Man Contribution Graph
+![Pac-Man Animation](https://raw.githubusercontent.com/Ramprasanth7119/java-dsa/output/pacman-contribution-graph.svg)
+
+
 
 ###
