@@ -83,23 +83,11 @@
 
 ### 🎮 Contribution Graphs  
 
-#### 🕹️ Pac-Man Contribution Graph  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramprasanth7119/Ramprasanth7119/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramprasanth7119/Ramprasanth7119/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Ramprasanth7119/Ramprasanth7119/output/pacman-contribution-graph.svg">
-</picture>
+
 
 #### 🐍 Snake Contribution Graph  
 <img src="https://raw.githubusercontent.com/Ramprasanth7119/Ramprasanth7119/output/snake.svg" alt="Snake Animation" />
 
----
-
-### 📢 Latest Blog Posts  
-
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Ramprasanth7119&theme=tokyonight" alt="Recent Medium Posts" />
-</div>
 
 ---
 
