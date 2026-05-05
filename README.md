@@ -28,9 +28,11 @@
 ###
 
 ### 👨‍💻 About Me  
-- 🔭 Pursuing **B.E. Computer Science** at **Kongu Engineering College**  
-- 📚 Currently learning **Java DSA**  
-- ⚡ In my free time, I explore new technologies and improve my coding skills  
+- 🎓 B.E. Computer Science @ Kongu Engineering College (CGPA: 8.11)
+- 💼 Former Software Trainee @ JPBP Offshore
+- ⚡ Specialized in Full Stack Development (Java + Spring Boot + MERN)
+- 🔍 Strong interest in Frontend Systems & Backend Applications
+- 📫 Email: ramprasanth2802@gmail.com
 
 ---
 
@@ -39,9 +41,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original-wordmark.svg)" height="40" alt="Spring"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"  />
   <img width="12" />
@@ -54,8 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"  />
   <img width="12" />
